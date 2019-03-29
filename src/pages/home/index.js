@@ -1,11 +1,13 @@
-import React from 'react';
+import React, { Fragment } from 'react';
 
 class Home extends React.Component {
   render() {
     return (
-      <div>
-        this is a Home pages
-      </div>
+      <Fragment>
+        <div>
+           111111
+        </div>
+      </Fragment>
     );
   }
 }
